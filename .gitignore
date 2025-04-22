@@ -1,0 +1,24 @@
+# Ignore arquivos de build
+bin/
+obj/
+
+# Ignore arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore pacotes
+packages/
+*.nupkg
+
+# Ignore arquivos temporários
+*.log
+*.tmp
+
+# Ignore configurações locais
+launchSettings.json
+
+# Ignore diretórios de publicação
+publish/
