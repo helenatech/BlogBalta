@@ -13,12 +13,13 @@ obj/
 packages/
 *.nupkg
 
-# Ignore arquivos temporários
+# Ignore arquivos temporÃ¡rios
 *.log
 *.tmp
 
-# Ignore configurações locais
+# Ignore configuraÃ§Ãµes locais
 launchSettings.json
+appsettings*.json
 
-# Ignore diretórios de publicação
+# Ignore diretÃ³rios de publicaÃ§Ã£o
 publish/
